@@ -1,0 +1,28 @@
+---
+layout: post
+title: Teknik-chatt 2019-12-16 - 2019-12-23
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### erik.malm - 2019-12-16 14:18 57s
+
+Verkar som att Microsoft släpper även sin Teams mjukvara för Linux.
+Jag har vart rätt perplex varje gång de gör något liknande, även om jag långsamt fått acceptera att världen inte är som den en gång var.
+Det som gör det här lite extra kul är att det verkar ha skett efter efterfrågan från kunderna, bl.a. Volvo!
+
+"With Teams for Linux from Microsoft, we have been able to leave that island and collaborate across our different platforms with the full functionality of a rich client. …Being able to participate in screen sharing is a huge improvement for the Linux users at Volvo Cars.”
+
+Kan utan överdrift kallas deras största bidrag till världen, efter trepunktsbältet.
+[https://www.computerworld.com/article/3489079/microsoft-teams-comes-to-linux.html](https://www.computerworld.com/article/3489079/microsoft-teams-comes-to-linux.html)
+
+<div class="attachment"><h4>Microsoft Teams comes to Linux</h4><div class="text">The launch of the highly requested Linux desktop client is designed to help Microsoft appeal to developers.</div>
+<a href="https://www.computerworld.com/article/3489079/microsoft-teams-comes-to-linux.html"><img src="https://images.idgesg.net/images/article/2019/12/screen-shot-2019-12-11-at-11.13.06-am-100821040-large.3x2.jpg" fallback="Microsoft Teams comes to Linux"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### niclas.lindstedt - 2019-12-17 13:38 05s
+
+@niclas.lindstedt has joined the channel
+
+<!--excerpt-->
+</section>
