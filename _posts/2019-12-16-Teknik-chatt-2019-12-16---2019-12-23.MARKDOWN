@@ -6,13 +6,13 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### erik.malm - 2019-12-16 14:18 57s
 
-Verkar som att Microsoft släpper även sin Teams mjukvara för Linux.
-Jag har vart rätt perplex varje gång de gör något liknande, även om jag långsamt fått acceptera att världen inte är som den en gång var.
-Det som gör det här lite extra kul är att det verkar ha skett efter efterfrågan från kunderna, bl.a. Volvo!
+Verkar som att Microsoft sl?pper ?ven sin Teams mjukvara f?r Linux.
+Jag har vart r?tt perplex varje g?ng de g?r n?got liknande, ?ven om jag l?ngsamt f?tt acceptera att v?rlden inte ?r som den en g?ng var.
+Det som g?r det h?r lite extra kul ?r att det verkar ha skett efter efterfr?gan fr?n kunderna, bl.a. Volvo!
 
-"With Teams for Linux from Microsoft, we have been able to leave that island and collaborate across our different platforms with the full functionality of a rich client. …Being able to participate in screen sharing is a huge improvement for the Linux users at Volvo Cars.”
+"With Teams for Linux from Microsoft, we have been able to leave that island and collaborate across our different platforms with the full functionality of a rich client. ?Being able to participate in screen sharing is a huge improvement for the Linux users at Volvo Cars.?
 
-Kan utan överdrift kallas deras största bidrag till världen, efter trepunktsbältet.
+Kan utan ?verdrift kallas deras st?rsta bidrag till v?rlden, efter trepunktsb?ltet.
 [https://www.computerworld.com/article/3489079/microsoft-teams-comes-to-linux.html](https://www.computerworld.com/article/3489079/microsoft-teams-comes-to-linux.html)
 
 <div class="attachment"><h4>Microsoft Teams comes to Linux</h4><div class="text">The launch of the highly requested Linux desktop client is designed to help Microsoft appeal to developers.</div>
