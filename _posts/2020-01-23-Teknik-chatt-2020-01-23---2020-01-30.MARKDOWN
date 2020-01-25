@@ -6,35 +6,35 @@ excerpt_separator: <!--excerpt-->
 <section class="message" markdown="1">
 ### daniel.winther - 2020-01-23 11:07 39s
 
-Allts? detta...
+Alltså detta...
 [https://github.com/felixrieseberg/windows95](https://github.com/felixrieseberg/windows95)
-Fullt fungerande windows95 k?randes som en electronapp
-allts?, windows95 skrivet i javascript...
+Fullt fungerande windows95 körandes som en electronapp
+alltså, windows95 skrivet i javascript...
 och man kan spela doom och lite annat
 </section>
 <section class="message" markdown="1">
 ### niclas.lindstedt - 2020-01-23 11:08 24s
 
-n?gon har mycket fritid
+någon har mycket fritid
 kan man installera ICQ?
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2020-01-23 11:08 33s
 
-v?ldigt mycket fritid
+väldigt mycket fritid
 vet inte
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2020-01-23 11:09 53s
 
-Om man vill k?ra win95 och anv?nda en j?vla massa ram
-COOOLT ?
+Om man vill köra win95 och använda en jävla massa ram
+COOOLT 😄
 </section>
 <section class="message" markdown="1">
 ### daniel.winther - 2020-01-23 11:10 10s
 
 haha
-ja, kanske inte just det som var fokus men ?
+ja, kanske inte just det som var fokus men 🙂
 </section>
 <section class="message" markdown="1">
 ### lukas.lindqvist - 2020-01-23 11:10 26s
@@ -50,7 +50,7 @@ ja, kanske inte just det som var fokus men ?
 <section class="message" markdown="1">
 ### daniel.winther - 2020-01-23 11:10 34s
 
-sk?n kommentar
+skön kommentar
 
 <!--excerpt-->
 </section>
