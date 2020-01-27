@@ -1,0 +1,28 @@
+---
+layout: post
+title: Teknik-chatt 2020-01-27 - 2020-02-03
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2020-01-27 10:17 32s
+
+Nu har jag också bytt till Jetbrains Mono, riktigt skönt än så länge
+</section>
+<section class="message" markdown="1">
+### niclas.lindstedt - 2020-01-27 10:23 48s
+
+najs font
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-01-27 10:24 15s
+
+Alltså, deras hemsida för fonten är rätt sexig
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2020-01-27 10:24 22s
+
+ja verkligen
+riktigt bra gjord
+
+<!--excerpt-->
+</section>
