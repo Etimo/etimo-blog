@@ -1,0 +1,56 @@
+---
+layout: post
+title: Teknik-chatt 2020-05-25 - 2020-06-01
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### johanhazelius - 2020-05-25 09:49 32s
+
+Effekten av Corono på hemarbete lär bli mer än temporära: [https://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interviewhttps://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interview](https://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interviewhttps://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interview)
+
+<div class="attachment"><h4>Facebook says it will permanently shift tens of thousands of jobs to remote work</h4><div class="text">Up to half of employees could work remotely within five years, CEO Mark Zuckerberg says in an interview. The work-from-home shift has been accelerated by the COVID-19 pandemic.</div>
+<a href="https://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interviewhttps://www.theverge.com/facebook/2020/5/21/21265699/facebook-remote-work-shift-workforce-permanent-covid-19-mark-zuckerberg-interview"><img src="https://cdn.vox-cdn.com/thumbor/HgJJ0tPKJrfjAEGPaY_HXGGZ_Es=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10456377/wjoel_180319_2394_facebook_0002.jpg" fallback="Facebook says it will permanently shift tens of thousands of jobs to remote work"/></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2020-05-25 09:50 21s
+
+Jag vill se liknande på något större svenskt bolag
+</section>
+<section class="message" markdown="1">
+### niclas.lindstedt - 2020-05-25 09:51 51s
+
+De som inte hårdsatsar på remote kommer hamna efter.
+</section>
+<section class="message" markdown="1">
+### erik.malm - 2020-05-25 09:52 06s
+
+Jag tror 3 dagar hemma två på plats vecka vore idealet för mig. Pendling äter mycket både livstid och arbetstid, men ordvitsar funkar dåligt över videolänk.
+</section>
+<section class="message" markdown="1">
+### niclas.lindstedt - 2020-05-25 09:52 30s
+
+De funkar bra i text, ibland bättre.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-05-25 10:00 47s
+
+Fyfan, 1 dag hemma hade räckt
+</section>
+<section class="message" markdown="1">
+### niclas.lindstedt - 2020-05-25 10:01 11s
+
+5/5 dagar funkar bra för mig, sparar så mycket tid på pendling.
+</section>
+<section class="message" markdown="1">
+### lukas.lindqvist - 2020-05-25 10:02 29s
+
+Äta lunch med kollegor/kompisar &gt; Pendling, all day, every day
+</section>
+<section class="message" markdown="1">
+### johanhazelius - 2020-05-25 10:15 22s
+
+Jag tycker som du @erik.malm - en kombination är optimalt. Exakt balans är rimligen individuellt men en kombination av hemarbete för produktivt kodande och kontorsarbete för att säkerställa kommunikation, koordinering och ordvitsande känns som framtiden!
+
+<!--excerpt-->
+</section>
