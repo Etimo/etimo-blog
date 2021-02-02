@@ -1,0 +1,32 @@
+---
+layout: post
+title: Teknik-chatt 2021-02-02 - 2021-02-09
+excerpt_separator: <!--excerpt-->
+---
+<section class="message" markdown="1">
+### daniel.winther - 2021-02-02 16:16 32s
+
+Spännande :man-facepalming:  [https://techworld.idg.se/2.2524/1.746314/sars-sydafrika-flash](https://techworld.idg.se/2.2524/1.746314/sars-sydafrika-flash)
+
+<div class="attachment"><h4>Här är myndigheten som släpper egen webbläsare – med stöd för Flash</h4><div class="text">Skatteverket i Sydafrika, SARS, hann inte konvertera sin sajt från Flash till html5 före årsskiftet. I stället släpper de en egen webbläsare med stöd för den osäkra tekniken.</div>
+<a href="https://techworld.idg.se/2.2524/1.746314/sars-sydafrika-flash"><div class="linkdiv"><img src="/assets/blogAssets/Här är myndigheten som släpper egen webbläsare – med stöd för Flash" fallback="Här är myndigheten som släpper egen webbläsare – med stöd för Flash"/></div></a></div>
+    
+</section>
+<section class="message" markdown="1">
+### jens.hunt - 2021-02-02 16:17 21s
+
+Hur kan det gå snabbare och vara mer hållbart?
+</section>
+<section class="message" markdown="1">
+### daniel.winther - 2021-02-02 16:17 32s
+
+Haha ja man kan undra 😄
+de kanske bara forkade nån opensource-webbläsare och backade några commits
+</section>
+<section class="message" markdown="1">
+### niclas.lindstedt - 2021-02-02 16:18 14s
+
+förbi alla meningslösa security patches
+
+<!--excerpt-->
+</section>
