@@ -27,6 +27,11 @@ de kanske bara forkade nån opensource-webbläsare och backade några commits
 ### niclas.lindstedt - 2021-02-02 16:18 14s
 
 förbi alla meningslösa security patches
+</section>
+<section class="message" markdown="1">
+### rickard.lofberg - 2021-02-03 13:02 15s
+
+@rickard.lofberg has joined the channel
 
 <!--excerpt-->
 </section>
